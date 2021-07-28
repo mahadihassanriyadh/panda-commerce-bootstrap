@@ -1,0 +1,24 @@
+.pink-button{
+    background-image: linear-gradient(#ff5599, #ff3180);
+    font-size: 1.3em;
+    font-weight: 400;
+    color: white;
+    border-radius: 7px;
+}
+.text-pink{
+    color: #ff1b74;
+}
+.pink-button-sm{
+    background-image: linear-gradient(#ff5599, #ff3180);
+    font-size: 1em;
+    font-weight: 400;
+    color: white;
+    border-radius: 7px;
+}
+.bg-color{
+    background-color: #feeae9;
+}
+
+.box-round{
+    border-radius: 10px;
+}
